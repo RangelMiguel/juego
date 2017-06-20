@@ -1,0 +1,20 @@
+Ballena:Es el animal mas grande que existe
+Tyranosaurio:Dinosaurio carnivoro famoso
+Arborea:Rana de color verde que vive en los arboles
+Araña:Aracnidos mas populares
+Sapo:Anfibio de piel arrugada
+Salamandra:Anfibio que se parece a una lagartija
+Mono:Mamifero que vive en los arboles
+Delfin:Mamifero acuatico de gran inteligencia
+Tucan:Ave con gran pico y plumas negras en peligro de extincion
+Raton:Animal que aparece como un chefsito
+Lagartija:Reptil similar a la salamandra
+Serpiente:Reptil de forma alargada y delgada
+Pinguino:Ave que no puede volar
+Dodo:Famosa ave extinta
+Velociraptor:Famoso dinosaurio cuya garra tiene forma peculiar
+Gallina:Animal de granja
+Pejelagarto:Mama se metio un ___________ a la casa!
+Gato:Animal tierno y malvado a la vez
+Hormiga:Insecto que se organiza en colonias
+Trilobite:Perteneciente a una clase de artrópodos marinos extintos de la era primaria

@@ -1,1 +1,2 @@
-# juego
+# ahorcado
+Juego ahorcado Java
